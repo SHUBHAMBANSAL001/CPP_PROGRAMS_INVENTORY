@@ -7,7 +7,7 @@ int main()
 	cout<<"Loading the array"<<endl;
 	for(i=0;i<10;i++)
 	array[i]=i;
-	cout<<"The numbers stored in the array are "<<endl;
+	cout<<"The numbers stored in the array are  as mentioned "<<endl;
 	for(i=0;i<10;i++)
     cout<<array[i]<<endl;
     return 0;
