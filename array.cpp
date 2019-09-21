@@ -1,4 +1,4 @@
-//program to load an array and then display the same
+//Aim : Program to load an array n then display the same.
 #include<iostream>
 using namespace std;
 int main()
@@ -9,6 +9,6 @@ int main()
 	array[i]=i;
 	cout<<"The numbers stored in the array are  as mentioned "<<endl;
 	for(i=0;i<10;i++)
-    cout<<array[i]<<endl;
-    return 0;
+        cout<<array[i]<<endl;
+        return 0;
 }
