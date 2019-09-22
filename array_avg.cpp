@@ -1,4 +1,4 @@
-//program to find the average of elements of the array
+//Aim : Program to find the average of elements of the array
 #include<iostream>
 using namespace std;
 int main()
@@ -10,9 +10,7 @@ int main()
 	for(i=0;i<size;i++)
 	cin>>array[i];
 	for(i=0;i<size;i++)
-	{
-	 sum +=array[i];	
-	}
+	 sum +=array[i];
 	avg=(sum/size);
     cout<<"The integral value of the average of the elements entered in the array is "<<avg<<endl;
 	return 0;
