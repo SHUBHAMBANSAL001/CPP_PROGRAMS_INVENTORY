@@ -1,4 +1,4 @@
-//program to input an array and to find its largest element
+//Aim : Program to input an array and to find its largest element
 #include<iostream>
 using namespace std;
 int main()
