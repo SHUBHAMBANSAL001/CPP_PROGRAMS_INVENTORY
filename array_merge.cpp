@@ -1,9 +1,9 @@
-//program to merge two arrays 
+//Aim : Program to merge two arrays 
 #include<iostream>
 using namespace std;
 int main()
 {
-	int size1,size2,a[30],b[10],i,j;
+	int size1,size2,a[20],b[10],i,j;
 	cout<<"Enter how many elements you want to enter in the first array(at max 10)"<<endl;
 	cin>>size1;
 	if(size1>10)
@@ -21,7 +21,7 @@ int main()
 	int n;
 	n=size1+size2;
 	cout<<"Now merging the two arrays into first array"<<endl;
-	for(i=size1,j=0;i<n,j<size2;i++,j++)
+	for(i=size1,j=0;i<n,j<size2;i++,j++) //2 loops running(Have a look over it)
 	{
 		a[i]=b[j];
 	}
