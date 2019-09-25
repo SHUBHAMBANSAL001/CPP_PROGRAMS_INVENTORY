@@ -1,4 +1,4 @@
-//program to sort an array in the ascending array
+//Aim : Program to sort an array in the ascending fashion
 #include<iostream>
 using namespace std;
 int main()
