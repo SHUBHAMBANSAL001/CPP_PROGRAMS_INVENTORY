@@ -1,4 +1,4 @@
-//program to add two arrays and display their result
+//Aim: Program to add two arrays and display their result
 #include<iostream>
 using namespace std;
 int main()
