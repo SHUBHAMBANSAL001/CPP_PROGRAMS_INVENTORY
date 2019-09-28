@@ -1,10 +1,11 @@
+//Aim: To print the sum of the all elements in the array
 #include<stdio.h>
 int main()
 {    
 int i,size; 
-float array[size],sum = 0;
 printf("Enter the size of array");
 scanf("%d",&size);
+float array[size],sum =0;
 printf("Enter the integer elements of the array");
 for(i=0;i<size;i++)
 {
