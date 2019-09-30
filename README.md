@@ -13,5 +13,6 @@ After practising these codes you can proceed to competitive programming sites li
 * [Sum of Corresponding Elements of Arrays](https://github.com/SHUBHAMBANSAL001/CPP_PROGRAMS_INVENTORY/blob/master/array_sum.cpp)
 * [Sum of all elements of an Array](https://github.com/SHUBHAMBANSAL001/CPP_PROGRAMS_INVENTORY/blob/master/arraysum.cpp)
 * [Ascii value of a Char](https://github.com/SHUBHAMBANSAL001/CPP_PROGRAMS_INVENTORY/blob/master/ascii.cpp)
+* [Four Func Calculator](https://github.com/SHUBHAMBANSAL001/CPP_PROGRAMS_INVENTORY/blob/master/calculator.cpp)
 
 
