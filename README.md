@@ -14,5 +14,6 @@ After practising these codes you can proceed to competitive programming sites li
 * [Sum of all elements of an Array](https://github.com/SHUBHAMBANSAL001/CPP_PROGRAMS_INVENTORY/blob/master/arraysum.cpp)
 * [Ascii value of a Char](https://github.com/SHUBHAMBANSAL001/CPP_PROGRAMS_INVENTORY/blob/master/ascii.cpp)
 * [Four Func Calculator](https://github.com/SHUBHAMBANSAL001/CPP_PROGRAMS_INVENTORY/blob/master/calculator.cpp)
+* [Class Functions calls](https://github.com/SHUBHAMBANSAL001/CPP_PROGRAMS_INVENTORY/blob/master/class_func_nesting.cpp)
 
 
