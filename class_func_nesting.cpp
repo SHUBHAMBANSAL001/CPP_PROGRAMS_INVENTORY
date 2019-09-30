@@ -1,4 +1,5 @@
-//program to illustrate the nesting of member functions in a class
+//Aim: Program to illustrate the interncommunication of member functions in a class
+/*Note: Don't confuse this with nesting of loops where one loop is defined inside other one, here we are talking about one function call inside other one because we can't define one function inside another function that is against cpp rules*/
 #include<iostream>
 using namespace std;
 class large
