@@ -16,7 +16,8 @@ After practising these codes you can proceed to competitive programming sites li
 * [Ascii value of a Char](https://github.com/SHUBHAMBANSAL001/CPP_PROGRAMS_INVENTORY/blob/master/ascii.cpp)
 * [Four Func Calculator](https://github.com/SHUBHAMBANSAL001/CPP_PROGRAMS_INVENTORY/blob/master/calculator.cpp)
 * [Class Functions calls](https://github.com/SHUBHAMBANSAL001/CPP_PROGRAMS_INVENTORY/blob/master/class_func_nesting.cpp)
-* [Factorial of num](https://github.com/SHUBHAMBANSAL001/CPP_PROGRAMS_INVENTORY/blob/master/fact.cpp)
+* [Factorial of num](https://github.com/SHUBHAMBANSAL001/CPP_PROGRAMS_INVENTORY/blob/master/fact.cpp) - To calculate the Factorial
+* [Factors of a num](https://github.com/SHUBHAMBANSAL001/CPP_PROGRAMS_INVENTORY/blob/master/factors.cpp) - To Calculate Factors of a num 
 
 
 
