@@ -15,5 +15,5 @@ After practising these codes you can proceed to competitive programming sites li
 * [Ascii value of a Char](https://github.com/SHUBHAMBANSAL001/CPP_PROGRAMS_INVENTORY/blob/master/ascii.cpp)
 * [Four Func Calculator](https://github.com/SHUBHAMBANSAL001/CPP_PROGRAMS_INVENTORY/blob/master/calculator.cpp)
 * [Class Functions calls](https://github.com/SHUBHAMBANSAL001/CPP_PROGRAMS_INVENTORY/blob/master/class_func_nesting.cpp)
-
+* [Even or Odd](https://github.com/SHUBHAMBANSAL001/CPP_PROGRAMS_INVENTORY/blob/master/evenodd.cpp) - Whether the num is even or odd
 
