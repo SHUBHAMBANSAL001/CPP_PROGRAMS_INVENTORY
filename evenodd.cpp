@@ -1,4 +1,4 @@
-//program to check whether the input number is even or odd 
+//Aim: Program to check whether the input number is even or odd 
 #include<iostream>
 using namespace std;
 int main()
