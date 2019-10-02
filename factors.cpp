@@ -1,4 +1,4 @@
-//program to print the factors of the given number
+//Aim: Program to print the factors of the given number
 #include<iostream>
 using namespace std;
 int main()
@@ -10,7 +10,7 @@ int main()
 	for(i=1;i<=num;i++)
 	{
 		if(num%i==0)
-		cout<<i<<endl;
+		cout<<i<<" ";
 	}
     return 0;
 }
