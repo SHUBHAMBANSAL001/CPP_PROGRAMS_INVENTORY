@@ -3,6 +3,7 @@
 This repository contains a various types of c++ programs which you can practise for your basic coding purposes.
 
 After practising these codes you can proceed to competitive programming sites like HackerRank, codechef , Interview Bit (Level of difficulty increases as i mention them) etc.
+* [Even or Odd](https://github.com/SHUBHAMBANSAL001/CPP_PROGRAMS_INVENTORY/blob/master/evenodd.cpp) - Whether the num is even or odd
 * [Area of Cirlce Program](https://github.com/SHUBHAMBANSAL001/CPP_PROGRAMS_INVENTORY/blob/master/areaofcircle.cpp)
 * [Array Program](https://github.com/SHUBHAMBANSAL001/CPP_PROGRAMS_INVENTORY/blob/master/array.cpp)
 * [Array I/O Program](https://github.com/SHUBHAMBANSAL001/CPP_PROGRAMS_INVENTORY/blob/master/array2.cpp)
@@ -15,5 +16,7 @@ After practising these codes you can proceed to competitive programming sites li
 * [Ascii value of a Char](https://github.com/SHUBHAMBANSAL001/CPP_PROGRAMS_INVENTORY/blob/master/ascii.cpp)
 * [Four Func Calculator](https://github.com/SHUBHAMBANSAL001/CPP_PROGRAMS_INVENTORY/blob/master/calculator.cpp)
 * [Class Functions calls](https://github.com/SHUBHAMBANSAL001/CPP_PROGRAMS_INVENTORY/blob/master/class_func_nesting.cpp)
-* [Even or Odd](https://github.com/SHUBHAMBANSAL001/CPP_PROGRAMS_INVENTORY/blob/master/evenodd.cpp) - Whether the num is even or odd
+* [Factorial of num](https://github.com/SHUBHAMBANSAL001/CPP_PROGRAMS_INVENTORY/blob/master/fact.cpp)
+
+
 
