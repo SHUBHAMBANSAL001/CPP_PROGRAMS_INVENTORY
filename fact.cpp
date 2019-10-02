@@ -1,4 +1,4 @@
-//program to print the factorial of a number
+//Aim: Program to print the factorial of a number
 #include<iostream>
 using namespace std;
 int main()
