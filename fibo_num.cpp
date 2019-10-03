@@ -1,4 +1,4 @@
-//program to generate fibonacci series upto a certain number
+//Aim: Program to generate fibonacci series upto a certain number
 #include<iostream>
 using namespace std;
 int main()
