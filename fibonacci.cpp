@@ -1,4 +1,4 @@
-//PROGRAM TO DISPLAY FIBONACCI SEQUENCE
+//Aim: PROGRAM TO DISPLAY FIBONACCI SEQUENCE
 #include<iostream>
 using namespace std;
 int main()
