@@ -1,4 +1,4 @@
-//program to print the factorial of a number using functions
+//Aim: Program to print the factorial of a number using functions
 #include<iostream>
 using namespace std;
 int factorial(int);
@@ -10,7 +10,6 @@ int main()
 	fact=factorial(n);
 	cout<<"The factorial of the entered number is "<<endl<<fact;
 	return 0;
-	
 }
 int factorial(int n)
 {
