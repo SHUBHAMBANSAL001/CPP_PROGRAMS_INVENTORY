@@ -1,4 +1,4 @@
-//program to calculate power using recursion
+//Aim: Program to calculate power using recursion
 #include<iostream>
 using namespace std;
 int poweR(int ,int);
@@ -12,9 +12,9 @@ int main()
 	int result;
 	result = poweR(base,power);
 	if(power<0)
-	cout<<"The result for negative power is  "<<result;
+	cout<<"The result for negative power is  "<<result<<endl;
 	else
-	cout<<base<<" Raised to the power "<<power<<" is "<<result;
+	cout<<base<<"Raised to the power "<<power<<" is "<<result<<endl;
 	return 0;
 }
 int poweR(int base,int power)
