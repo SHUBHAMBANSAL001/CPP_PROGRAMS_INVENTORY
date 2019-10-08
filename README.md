@@ -7,6 +7,7 @@ After practising these codes you can proceed to competitive programming sites li
 * [Float num Prod](https://github.com/SHUBHAMBANSAL001/CPP_PROGRAMS_INVENTORY/blob/master/floatnoprod.cpp) -Product  of Float Numbers
 * [Area of Cirlce Program](https://github.com/SHUBHAMBANSAL001/CPP_PROGRAMS_INVENTORY/blob/master/areaofcircle.cpp) - Area 
 * [Sum of Natural Numbers] (https://github.com/SHUBHAMBANSAL001/CPP_PROGRAMS_INVENTORY/blob/master/func_sum_natural.cpp) - To find the sum of natural numbers till the given number
+* [Greatest of 3](https://github.com/SHUBHAMBANSAL001/CPP_PROGRAMS_INVENTORY/blob/master/greatestof3.cpp) - Find greates of 3 nums
 * [Array Program](https://github.com/SHUBHAMBANSAL001/CPP_PROGRAMS_INVENTORY/blob/master/array.cpp)
 * [Array I/O Program](https://github.com/SHUBHAMBANSAL001/CPP_PROGRAMS_INVENTORY/blob/master/array2.cpp)
 * [Array Avg](https://github.com/SHUBHAMBANSAL001/CPP_PROGRAMS_INVENTORY/blob/master/array_avg.cpp)
