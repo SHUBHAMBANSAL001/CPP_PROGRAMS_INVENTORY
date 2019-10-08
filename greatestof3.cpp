@@ -1,4 +1,4 @@
-//program to print the greatest of the three number 
+//Aim: Program to print the greatest of the three number
 #include<iostream>
 using namespace std;
 int main()
