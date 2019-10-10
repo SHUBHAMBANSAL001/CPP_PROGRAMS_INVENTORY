@@ -1,16 +1,14 @@
-//Program to execute the if else to convert the number into a word representing it
+//AIM: Program to execute the if else to convert the number into a word representing it
 #include <bits/stdc++.h>
 #include<math.h>
 using namespace std;
 int main()
 {
-    int n,l;
+    int n;
+    cout<<"Enter the number";
     cin >> n;
-    l=pow(10,9);
-    if (n>=1 &&n<=l)
-    {
-    	if(n==1)
-    	{
+    	        if(n==1)
+	        {
     		cout<<"one";
 		}
 		else if(n==2)
@@ -43,12 +41,7 @@ int main()
 		else
 		{
 			cout<<"Greater than 9";
-		}
-	}
-	else
-	{
-		cout<<"Number is not in the specified limit";
-	}
-    return 0;
+                }
+ return 0;
 }
 
