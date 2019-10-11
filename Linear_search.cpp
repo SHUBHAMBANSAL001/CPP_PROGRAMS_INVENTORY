@@ -1,4 +1,4 @@
-//program for linear searching in the arrays 
+//Aim: Program for linear searching in the arrays 
 #include<iostream>
 using namespace std;
 int main()
@@ -21,10 +21,10 @@ int main()
 		if(array[i]==key)
 		{
 		cout<<"Element found!!! at "<<i<<" index or "<<i+1<<" location "<<endl;
-        flag=1;
+                flag=1; //For element being found
 		}
 	}
-    if(flag==0)
-    cout<<"The entered element is not in the array,sorry";
-    return 0;
+        if(flag==0)
+        cout<<"The entered element is not in the array,sorry";
+        return 0;
 }
