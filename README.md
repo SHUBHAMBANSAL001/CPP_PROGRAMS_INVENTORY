@@ -24,6 +24,7 @@ After practising these codes you can proceed to competitive programming sites li
 * [Factors of a num](https://github.com/SHUBHAMBANSAL001/CPP_PROGRAMS_INVENTORY/blob/master/factors.cpp) - To Calculate Factors of a num
 * [Fibonacci Series](https://github.com/SHUBHAMBANSAL001/CPP_PROGRAMS_INVENTORY/blob/master/fibo_num.cpp) - Fibonacci Series till sum
 * [Factorial Function](https://github.com/SHUBHAMBANSAL001/CPP_PROGRAMS_INVENTORY/blob/master/func_fact.cpp) - Recursive Factorial Calculation
+* [Num to Word](https://github.com/SHUBHAMBANSAL001/CPP_PROGRAMS_INVENTORY/blob/master/IFnumtoword.cpp)- Convert the num to word
 
 
 
