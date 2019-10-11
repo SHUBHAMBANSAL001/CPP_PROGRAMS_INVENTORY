@@ -9,6 +9,7 @@ After practising these codes you can proceed to competitive programming sites li
 * [Area of Cirlce Program](https://github.com/SHUBHAMBANSAL001/CPP_PROGRAMS_INVENTORY/blob/master/areaofcircle.cpp) - Area 
 * [Sum of Natural Numbers] (https://github.com/SHUBHAMBANSAL001/CPP_PROGRAMS_INVENTORY/blob/master/func_sum_natural.cpp) - To find the sum of natural numbers till the given number
 * [Greatest of 3](https://github.com/SHUBHAMBANSAL001/CPP_PROGRAMS_INVENTORY/blob/master/greatestof3.cpp) - Find greates of 3 nums
+* [Ascii value of a Char](https://github.com/SHUBHAMBANSAL001/CPP_PROGRAMS_INVENTORY/blob/master/ascii.cpp)
 * [Array Program](https://github.com/SHUBHAMBANSAL001/CPP_PROGRAMS_INVENTORY/blob/master/array.cpp)
 * [Array I/O Program](https://github.com/SHUBHAMBANSAL001/CPP_PROGRAMS_INVENTORY/blob/master/array2.cpp)
 * [Array Avg](https://github.com/SHUBHAMBANSAL001/CPP_PROGRAMS_INVENTORY/blob/master/array_avg.cpp)
@@ -17,7 +18,6 @@ After practising these codes you can proceed to competitive programming sites li
 * [Array sort](https://github.com/SHUBHAMBANSAL001/CPP_PROGRAMS_INVENTORY/blob/master/array_sort.cpp)
 * [Sum of Corresponding Elements of Arrays](https://github.com/SHUBHAMBANSAL001/CPP_PROGRAMS_INVENTORY/blob/master/array_sum.cpp)
 * [Sum of all elements of an Array](https://github.com/SHUBHAMBANSAL001/CPP_PROGRAMS_INVENTORY/blob/master/arraysum.cpp)
-* [Ascii value of a Char](https://github.com/SHUBHAMBANSAL001/CPP_PROGRAMS_INVENTORY/blob/master/ascii.cpp)
 * [Four Func Calculator](https://github.com/SHUBHAMBANSAL001/CPP_PROGRAMS_INVENTORY/blob/master/calculator.cpp)
 * [Class Functions calls](https://github.com/SHUBHAMBANSAL001/CPP_PROGRAMS_INVENTORY/blob/master/class_func_nesting.cpp)
 * [Factorial of num](https://github.com/SHUBHAMBANSAL001/CPP_PROGRAMS_INVENTORY/blob/master/fact.cpp) - To calculate the Factorial
@@ -28,3 +28,4 @@ After practising these codes you can proceed to competitive programming sites li
 
 
 
+* [Linear Searching](https://github.com/SHUBHAMBANSAL001/CPP_PROGRAMS_INVENTORY/blob/master/Linear_search.cpp) - Linear Searching
