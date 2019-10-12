@@ -1,9 +1,9 @@
-//program to input and display the sum of two matrices
+//Aim: Program to input and display the sum of two matrices
 #include<iostream>
 using namespace std;
 int main()
 {
-	int i,j,first[10][10],second[10][10],a,b,c,d;
+    int i,j,first[10][10],second[10][10],a,b,c,d;
     cout<<"Enter the number of rows and columns for both the matrices"<<endl;
     cin>>a>>b;
     cout<<"Now start entering the elements in first matrix row wise"<<endl;
