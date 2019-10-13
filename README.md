@@ -26,6 +26,6 @@ After practising these codes you can proceed to competitive programming sites li
 * [Factorial Function](https://github.com/SHUBHAMBANSAL001/CPP_PROGRAMS_INVENTORY/blob/master/func_fact.cpp) - Recursive Factorial Calculation
 * [Num to Word](https://github.com/SHUBHAMBANSAL001/CPP_PROGRAMS_INVENTORY/blob/master/IFnumtoword.cpp)- Convert the num to word
 
-
+* [Matrix sum](https://github.com/SHUBHAMBANSAL001/CPP_PROGRAMS_INVENTORY/blob/master/matrix_sum.cpp) - Sum of elements of matrix
 
 * [Linear Searching](https://github.com/SHUBHAMBANSAL001/CPP_PROGRAMS_INVENTORY/blob/master/Linear_search.cpp) - Linear Searching
