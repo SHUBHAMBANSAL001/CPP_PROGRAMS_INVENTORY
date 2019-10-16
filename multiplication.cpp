@@ -1,3 +1,4 @@
+//Aim : Program to produce the multiplication table for any number entered 
 #include<iostream>
 using namespace std;
 int main()
