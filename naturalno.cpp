@@ -1,3 +1,4 @@
+//Aim : Program to print the sum of all natural numbers till the given number
 #include<iostream>
 using namespace std;
 int main()
