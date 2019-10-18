@@ -1,4 +1,4 @@
-//program to count the number of digits in the integer
+//Aim: Program to count the number of digits in the integer
 #include<iostream>
 using namespace std;
 int main()
