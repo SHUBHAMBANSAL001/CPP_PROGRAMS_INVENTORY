@@ -13,7 +13,7 @@ After practising these codes you can proceed to competitive programming sites li
 * [Ascii value of a Char](https://github.com/SHUBHAMBANSAL001/CPP_PROGRAMS_INVENTORY/blob/master/ascii.cpp)
 * [Multiplication Table](https://github.com/SHUBHAMBANSAL001/CPP_PROGRAMS_INVENTORY/blob/master/multiplication.cpp) - As name suggests
 * [Num of Digits](https://github.com/SHUBHAMBANSAL001/CPP_PROGRAMS_INVENTORY/blob/master/no.ofdigits.cpp) - Number of digits in any number
-<br>
+<br\>
 * [Array Program](https://github.com/SHUBHAMBANSAL001/CPP_PROGRAMS_INVENTORY/blob/master/array.cpp)
 * [Array I/O Program](https://github.com/SHUBHAMBANSAL001/CPP_PROGRAMS_INVENTORY/blob/master/array2.cpp)
 * [Array Avg](https://github.com/SHUBHAMBANSAL001/CPP_PROGRAMS_INVENTORY/blob/master/array_avg.cpp)
