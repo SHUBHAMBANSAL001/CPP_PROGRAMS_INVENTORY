@@ -1,9 +1,10 @@
-//program to check if the given number is pallindrome or not
+//Aim: Program to check if the given number is pallindrome or not
 #include<iostream>
 using namespace std;
 int main()
 {
-	int orignum,revnum,remainder,N;
+	int orignum,remainder,N;
+	int revnum =0;
 	cout<<"Enter the number for which you want to check the pallindrome";
 	cin>>orignum;
 	N=orignum;
