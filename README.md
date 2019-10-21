@@ -1,8 +1,9 @@
 # CPP_PROGRAMS_INVENTORY
 ---
-This repository contains a various types of c++ programs which you can practise for your basic coding purposes.
+This repository contains a various types of C++ programs which you can practise for your basic coding purposes.
 
 After practising these codes you can proceed to competitive programming sites like HackerRank, codechef , Interview Bit (Level of difficulty increases as i mention them) etc.
+
 * [Hello World](https://github.com/SHUBHAMBANSAL001/CPP_PROGRAMS_INVENTORY/blob/master/hello.cpp) - First Program 
 * [Even or Odd](https://github.com/SHUBHAMBANSAL001/CPP_PROGRAMS_INVENTORY/blob/master/evenodd.cpp) - Whether the num is even or odd
 * [Float num Prod](https://github.com/SHUBHAMBANSAL001/CPP_PROGRAMS_INVENTORY/blob/master/floatnoprod.cpp) -Product  of Float Numbers
@@ -11,6 +12,7 @@ After practising these codes you can proceed to competitive programming sites li
 * [Greatest of 3](https://github.com/SHUBHAMBANSAL001/CPP_PROGRAMS_INVENTORY/blob/master/greatestof3.cpp) - Find greates of 3 nums
 * [Ascii value of a Char](https://github.com/SHUBHAMBANSAL001/CPP_PROGRAMS_INVENTORY/blob/master/ascii.cpp)
 * [Multiplication Table](https://github.com/SHUBHAMBANSAL001/CPP_PROGRAMS_INVENTORY/blob/master/multiplication.cpp) - As name suggests
+* [Num of Digits](https://github.com/SHUBHAMBANSAL001/CPP_PROGRAMS_INVENTORY/blob/master/no.ofdigits.cpp) - Number of digits in any number
 
 * [Array Program](https://github.com/SHUBHAMBANSAL001/CPP_PROGRAMS_INVENTORY/blob/master/array.cpp)
 * [Array I/O Program](https://github.com/SHUBHAMBANSAL001/CPP_PROGRAMS_INVENTORY/blob/master/array2.cpp)
