@@ -37,3 +37,6 @@ After practising these codes you can proceed to competitive programming sites li
 * [Matrix Transpose](https://github.com/SHUBHAMBANSAL001/CPP_PROGRAMS_INVENTORY/blob/master/matrix_transpose.cpp) - Transpose of matrix
 
 * [Linear Searching](https://github.com/SHUBHAMBANSAL001/CPP_PROGRAMS_INVENTORY/blob/master/Linear_search.cpp) - Linear Searching
+
+
+* [Pattern Type 1](https://github.com/SHUBHAMBANSAL001/CPP_PROGRAMS_INVENTORY/blob/master/pattern1.cpp) - Patterns 
