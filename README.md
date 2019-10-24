@@ -8,7 +8,7 @@ After practising these codes you can proceed to competitive programming sites li
 * [Even or Odd](https://github.com/SHUBHAMBANSAL001/CPP_PROGRAMS_INVENTORY/blob/master/evenodd.cpp) - Whether the num is even or odd
 * [Float num Prod](https://github.com/SHUBHAMBANSAL001/CPP_PROGRAMS_INVENTORY/blob/master/floatnoprod.cpp) -Product  of Float Numbers
 * [Area of Cirlce Program](https://github.com/SHUBHAMBANSAL001/CPP_PROGRAMS_INVENTORY/blob/master/areaofcircle.cpp) - Area 
-* [Sum of Natural Numbers] (https://github.com/SHUBHAMBANSAL001/CPP_PROGRAMS_INVENTORY/blob/master/func_sum_natural.cpp) - To find the sum of natural numbers till the given number
+* [Sum of Natural Numbers](https://github.com/SHUBHAMBANSAL001/CPP_PROGRAMS_INVENTORY/blob/master/func_sum_natural.cpp) - To find the sum of natural numbers till the given number
 * [Greatest of 3](https://github.com/SHUBHAMBANSAL001/CPP_PROGRAMS_INVENTORY/blob/master/greatestof3.cpp) - Find greates of 3 nums
 * [Ascii value of a Char](https://github.com/SHUBHAMBANSAL001/CPP_PROGRAMS_INVENTORY/blob/master/ascii.cpp)
 * [Multiplication Table](https://github.com/SHUBHAMBANSAL001/CPP_PROGRAMS_INVENTORY/blob/master/multiplication.cpp) - As name suggests
